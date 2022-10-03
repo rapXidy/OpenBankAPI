@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80170c6d-db7b-411d-a320-7ed1e8a50903": {
+      "ProjectGuid": "80170c6d-db7b-411d-a320-7ed1e8a50903",
+      "DisplayName": "BankAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4c998834-1de4-456e-bc0b-33606348f102": {
+      "ProjectGuid": "4c998834-1de4-456e-bc0b-33606348f102",
+      "DisplayName": "BankAPITests",
+      "ColorIndex": 1
+    },
+    "d7a03caa-57ba-4869-8bf7-8cd7aa372807": {
+      "ProjectGuid": "d7a03caa-57ba-4869-8bf7-8cd7aa372807",
+      "DisplayName": "BankApiTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
